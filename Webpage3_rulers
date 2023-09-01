@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HISTORY</title>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Navigation Bar</title>
+	<style type="text/css">
+		*{
+			text-decoration: none;
+		}
+		.navbar{
+			background: rgb(3, 192, 198); font-family: calibri; padding-right: 15px;padding-left: 15px;
+		}
+		.navdiv{
+			display: flex; align-items: center; justify-content: space-between;
+		}
+		.logo a{
+			font-size: 35px; font-weight: 600; color: white;
+		}
+		li{
+			list-style: none; display: inline-block;
+		}
+		li a{
+			color: white; font-size: 18px; font-weight: bold; margin-right: 25px;
+		}
+		button{
+			background-color: black; margin-left: 10px; border-radius: 10px; padding: 10px; width: 90px;
+		}
+		button a{
+			color: white; font-weight: bold; font-size: 15px;
+		}
+	</style>
+</head>
+<body style="background-color:#f5f5dc;">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+
+<a href="E:\DIVYA MATHUR\html_1.html"></a><img src="C:\Users\divya\Downloads\Rajasthanlogo_test-removebg-preview.png" alt="Mharo Rajasthan" width="250px" class="centre" style="width:20%;"></a>
+</body>
+   	<nav class="navbar">
+		<div class="navdiv">
+			<div class="logo"><a href="#">KINGS OF RAJASTHAN</a> </div>
+			<ul>
+				<li><a href="E:\DIVYA MATHUR\html_1.html" target="_blank">Home</a></li>
+				<li><a href="E:\DIVYA MATHUR\Dishes_rajasthan.html"target="_blank">Famous Dishes</a></li>
+				<li><a href="#">Places to visit</a></li>
+				<button><a href="#">SignIn</a></button>
+				<button><a href="#">SignUp</a></button>
+			</ul>
+		</div>
+	</nav>
+	<body style="background-color:#f5f5dc;">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	  <style>
+	  img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	  }
+	  </style>
+	  </head>
+	  
+	  <br>
+	  <br>
+	  <br>
+	  <b><h3>Rana Pratap Singh</h3></b>
+	  <img src="C:\Users\divya\Downloads\maha rana pratap.jpg" alt="Mharo Rajasthan" width="250px" class="centre" style="width:15%;">
+<br>
+<br>
+Rana Pratap Singh, (born 1545?, Mewar [India]—died January 19, 1597, Mewar), Hindu maharaja (1572–97) of the Rajput
+ confederacy of Mewar, now in northwestern India and eastern Pakistan. He successfully resisted efforts 
+ of the Mughal emperor Akbar to conquer his area and is honoured as a hero in Rajasthan.
+ Rana Pratap Singh, (born 1545?, Mewar [India]—died January 19, 1597, Mewar), Hindu maharaja (1572–97) of the Rajput 
+ confederacy of Mewar, now in northwestern India and eastern Pakistan. He successfully resisted efforts of the Mughal
+  emperor Akbar to conquer his area and is honoured as a hero in Rajasthan.
+
+The son and successor of the weak Rana Udai Singh, Rana Pratap sought to avenge the 1567 pillage of his capital, Chitor,
+ and subsequent raids by Akbar; this was in notable contrast to his fellow Hindu princes, who had submitted to the Mughals. 
+ Rana Pratap reorganized the government, improved the forts, and directed his subjects to take refuge in the mountain 
+ country when attacked by Mughals. After insulting one of Akbar’s emissaries and refusing an alliance, he was defeated 
+ in June 1576 by Mughal forces at Haldighat and fled to the hills. Despite the loss of many of his strongholds,
+  he continued to harass the Mughals and urged noncooperation and passive resistance to Akbar’s tax collectors. 
+  In the meantime, Mewar declined to a wasteland.
+<br>
+In 1584 Rana Pratap again rebuffed emissaries of Akbar, who was preoccupied in the Punjab. Accordingly, 
+Rana Pratap was able to recover most of his strongholds and died a hero to his people. He was succeeded by his son 
+Amar Singh, who submitted in 1614 to Emperor Jahāngīr, son of Akbar.
+
+<body style="background-color:#f5f5dc;">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  }
+  </style>
+  </head>
+  
+  <br>
+  <br>
+  <br>
+  <b><h3>Udai Singh II </b></h3>
+  <img src="C:\Users\divya\Downloads\Rana-udai-singh-ii.jpg" alt="Mharo Rajasthan" width="250px" class="centre" style="width:15%;">
+  <br>
+  Udai Singh II (August 4, 1522 – February 28, 1572) was the <b>Maharana of Mewar</b> and the <b>founder 
+  of the city of <i>Udaipur</i></b> in the 
+  present day Rajasthan state of India. He was the 53rd ruler of the Mewar Dynasty. He was the fourth son of Maharana Sangram 
+  Singh (Rana Sanga) and Rani Karnavati, a princess of Bundi.
+  Udai Singh was born in Chittor. In August, 1522. after the death of his father, Maharana Sangram Singh, he was succeeded by his eldest surviving son, Maharana Ratan Singh. 
+  Ratan Singh was assassinated in 1531. He was succeeded by his brother Maharana Vikramaditya Singh. During his reign, when the Turkic Sultan of Gujarat Bahadur Shah sacked C
+  hittor in 1534, Udai Singh was sent to Bundi for safety. In 1537, Banbir killed Vikramaditya and usurped the throne. He tried to kill Udai Singh also, but Udai's nurse 
+  Panna Dhai sacrificed her own son to save him from his uncle Banbir and took him to Kumbhalgarh. She did not ask for anything in return either. She started living in Bundi
+   and did not allow Udai Singh to come and meet her. He lived in secret in Kumbhalgarh for two years, disguised as a nephew of the governor Asha Shah Depura(Maheshwari).
+<br>
+<br>
+In 1540, he was crowned in Kumbhalgarh by the nobles of Mewar. His eldest son Maharana Pratap from his first wife, Maharani 
+Jaivantabai Songara[daughter of Akhey Raj Songara of Jalore], was born in the same year. He had twenty wives and twenty-five sons.
+ His second wife, Sajjabai Solankini gave birth to his son Shakti, Sagar Singh and Vikram Dev. Dheerbai Bhattiyani was his favourite 
+ wife and was the mother of his son Jagmal Singh and daughters Chand kanwar and Maan Kanwar. His fourth wife was Rani Veerbai Jhaala 
+ daughter of Rana Jaith Singh of Kherwa.
+<br>
+<br>
+In 1562, he gave refuge to Baz Bahadur of Malwa. Using this as a pretext, Akbar attacked Mewar in October,1567. On October 23, 
+1567 Akbar formed his camp near Udaipur. According to Kaviraj Shyamaldas, Udai Singh called a council of war. The nobles advised
+ him to take refuge along with the princes in the hills, leaving a garrison at Chittor. Udai Singh retired to Gogunda 
+ (which later became his temporary capital) leaving Chittor in the hands of his loyal chieftains Jaimal and Patta. 
+ Akbar captured Chittor after a long siege on February 25, 1568. He later shifted his capital to Udaipur. He died in 1572
+  in Gogunda. Before his death, he nominated his fourth son Jagmal as his successor under the influence of his favourite
+   queen and Jagmal's mother Rani Bhattiyani. But after his death, the nobles of Mewar prevented Jagmal from succeeding 
+   and placed Maharana Pratap Singh on the throne on March 1, 1572.
+<br>
+
+
+
+</body>
+</html>
+
+    
+
+   
