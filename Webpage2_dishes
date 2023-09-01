@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>DISHES</title>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Navigation Bar</title>
+	<style type="text/css">
+		*{
+			text-decoration: none;
+		}
+		.navbar{
+			background: rgb(3, 192, 198); font-family: calibri; padding-right: 15px;padding-left: 15px;
+		}
+		.navdiv{
+			display: flex; align-items: center; justify-content: space-between;
+		}
+		.logo a{
+			font-size: 35px; font-weight: 600; color: white;
+		}
+		li{
+			list-style: none; display: inline-block;
+		}
+		li a{
+			color: white; font-size: 18px; font-weight: bold; margin-right: 25px;
+		}
+		button{
+			background-color: black; margin-left: 10px; border-radius: 10px; padding: 10px; width: 90px;
+		}
+		button a{
+			color: white; font-weight: bold; font-size: 15px;
+		}
+	</style>
+</head>
+<body style="background-color:#f5f5dc;">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+
+<img src="C:\Users\divya\Downloads\Rajasthanlogo_test-removebg-preview.png" alt="Mharo Rajasthan" width="250px" class="centre" style="width:20%;">
+</body>
+   	<nav class="navbar">
+		<div class="navdiv">
+			<div class="logo"><a href="#">CUISINES</a> </div>
+			<ul>
+				<li><a href="E:\DIVYA MATHUR\html_1.html" target="_blank">Home</a></li>
+				<li><a href="E:\DIVYA MATHUR\Rajasthan_history.html" target="_blank">History</a></li>
+		        <li><a href="#">Places to vist</a></li>
+				<button><a href="#">SignIn</a></button>
+				<button><a href="#">SignUp</a></button>
+			</ul>
+		</div>
+	</nav>
+	<body style="background-color:#f5f5dc;">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	  <style>
+	  img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	  }
+	  </style>
+	  </head>
+	  
+	  <br>
+	  <br>
+	  <br>
+	  <b><h3>Dal Bati Churma</h3></b>
+	  <img src="C:\Users\divya\Downloads\dal-bati-churma.jpg" alt="Mharo Rajasthan" width="250px" class="centre" style="width:15%;">
+<br>
+<br>
+Dal Bati Churma is the most popular dish in Rajasthani cuisine. It is made of three components of bati, dal, and churma. Dal is lentils, bati is a baked wheat ball, and churma is powdered sweetened cereal. Churma is a popular delicacy usually served with baatis and dal. It is coarsely ground wheat crushed and cooked with ghee and sugar. Traditionally it is made by mashing up wheat flour baatis or left over rotis in ghee and jaggery.
+
+<body style="background-color:#f5f5dc;">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  }
+  </style>
+  </head>
+  
+  <br>
+  <br>
+  <br>
+  <b><h3>Ghevar </b></h3>
+  <img src="C:\Users\divya\Downloads\ghevar.jpg" alt="ghevar" width="250px" class="centre" style="width:15%;">
+  <br>
+  Ghevar or Ghewar (Devanagari:घेवर) is a Rajasthani cuisine disc-shaped sweet made from ghee, flour, and sugar syrup.[1] It is traditionally associated with the month of Shravan and the Teej and Raksha Bandhan festivals.[2][3] It is a part of Rajasthani tradition and is gifted to newly married daughter on Sinjara, the day preceding Gangaur and Teej. Besides Rajasthan, it is also famous in the adjoining states of Haryana, Delhi, Gujarat, Uttar Pradesh, and Madhya Pradesh. Ghevar is exported to foreign countries too.
+
+
+<br>
+
+
+
+</body>
+</html>
+
+    
+
+   
