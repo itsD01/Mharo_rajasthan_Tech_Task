@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>MHARO RAJASTHAN_home </title>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Navigation Bar</title>
+	<style type="text/css">
+		*{
+			text-decoration: none;
+		}
+		.navbar{
+			background: rgb(3, 192, 198); font-family: calibri; padding-right: 15px;padding-left: 15px;
+		}
+		.navdiv{
+			display: flex; align-items: center; justify-content: space-between;
+		}
+		.logo a{
+			font-size: 35px; font-weight: 600; color: white;
+		}
+		li{
+			list-style: none; display: inline-block;
+		}
+		li a{
+			color: white; font-size: 18px; font-weight: bold; margin-right: 25px;
+		}
+		button{
+			background-color: black; margin-left: 10px; border-radius: 10px; padding: 10px; width: 90px;
+		}
+		button a{
+			color: white; font-weight: bold; font-size: 15px;
+		}
+	</style>
+</head>
+<body style="background-color:#f5f5dc;">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+
+<img src="C:\Users\divya\Downloads\Rajasthanlogo_test-removebg-preview.png" alt="Mharo Rajasthan" width="250px" class="centre" style="width:20%;">
+</body>
+   	<nav class="navbar">
+		<div class="navdiv">
+			<div class="logo"><a href="#">Mharo Rajasthan</a> </div>
+			<ul>
+				<li><a href="E:\DIVYA MATHUR\Rajasthan_history.html"target="_blank">History</a></li>
+				<li><a href="E:\DIVYA MATHUR\Dishes_rajasthan.html" target="_blank">Famous Dishes</a></li>
+				<li><a href="#">places to visit</a></li>
+				<button><a href="#">SignIn</a></button>
+				<button><a href="#">SignUp</a></button>
+			</ul>
+		</div>
+	</nav>
+  <br>
+  Rajasthan literally means <b>"The Land of Kings"</b> and is a portmanteau of <b>Sanskrit "Rājā" (King) and Sanskrit 
+  "Sthāna"(Land) or Persian "St(h)ān"</b> with the same meaning.
+  <br>
+  The oldest reference to Rajasthan is found 
+  in a stone inscription dated back to 625 CE.The first printed mention of the name Rajasthan appears 
+  in the 1829 publication Annals and Antiquities of Rajasthan or the Central and Western Rajpoot States of 
+  India, while the earliest known record of Rajputana as a name for the region is in George Thomas's 1800 
+  memoir Military Memories.John Keay, in his book <i>India: A History</i>, stated that Rajputana was coined 
+  by the British in 1829, John Briggs, translating Ferishta's history of early Islamic India, used the phrase 
+  "Rajpoot (Rajput) princes" rather than "Indian princes".
+  Ancient times
+
+<p>A archaeological excavation at the Balathal site in Udaipur district shows a settlement contemporary with the 
+Harrapan civilisation dating back to 3000–1500 BCE. Stone Age tools dating from 5,000 to 200,000 years were found 
+in Bundi and Bhilwara districts of the state.</p>
+
+<p>The Matsya kingdom of the Vedic civilisation of India is said to roughly corresponded to the former state of Jaipur 
+in Rajasthan and included the whole of Alwar with portions of Bharatpur.The capital of Matsya was at Viratanagar 
+(modern Bairat), which is said to have been named after its founder King Virata.</p>
+
+<p>Bhargava[28] identifies the two districts of Jhunjhunu and Sikar and parts of Jaipur district along with Haryana districts
+ of Mahendragarh and Rewari as part of Vedic state of Brahmavarta. Bhargava also locates the present day Sahibi River as 
+ the Vedic Drishadwati River, which along with Saraswati River formed the borders of the Vedic state of Brahmavarta.[29] 
+ Manu and Bhrigu narrated the Manusmriti to a congregation of seers in this area. The ashrams of Vedic seers Bhrigu and 
+ his son Chayvan Rishi, for whom Chyawanprash was formulated, were near Dhosi Hill, part of which lies in Dhosi village 
+ of Jhunjhunu district of Rajasthan and part of which lies in Mahendragarh district of Haryana.</p>
+
+The Western Kshatrapas (405–35 BCE), the Saka rulers of the western part of India, were successors to the Indo-Scythians 
+and were contemporaneous with the Kushans, who ruled the northern part of the Indian subcontinent. The Indo-Scythians invaded 
+the area of Ujjain and established the Saka era (with their calendar), marking the beginning of the long-lived Saka Western 
+Satraps state.</centre>
+</body>
+</html>
+
+    
+
+   
